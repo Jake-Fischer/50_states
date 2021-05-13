@@ -1,6 +1,6 @@
 <template>
+<!-- This is our vue app -->
   <div>
-    
     <page-header></page-header>
 
     <router-view></router-view>

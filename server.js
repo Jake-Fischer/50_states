@@ -1,3 +1,5 @@
+//This is our server
+
 let express = require('express')
 let states_api = require('./routes/states')
 

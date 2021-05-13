@@ -1,6 +1,6 @@
 <template>
+<!-- Footer of the page, contains navigation links and credits -->
     <div>
-
         <div id='navigation-links'>
             <span class='nav-link'>
                 <router-link to="/">Home</router-link>

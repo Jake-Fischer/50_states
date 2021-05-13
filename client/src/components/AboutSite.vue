@@ -1,4 +1,5 @@
 <template>
+<!-- About site page -->
     <div>
         <h2>Where have you traveled to?</h2>
 

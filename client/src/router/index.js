@@ -1,3 +1,6 @@
+//This is our router, where it will determine what page will be displayed 
+//certain paths are navigated too
+
 import { createRouter, createWebHashHistory } from 'vue-router'
 import StateList from '@/components/StateList'
 import AboutSite from '@/components/AboutSite'

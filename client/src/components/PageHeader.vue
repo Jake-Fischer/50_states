@@ -1,4 +1,5 @@
 <template>
+<!-- Header of the page, text and a picture -->
     <div id="block-header">
         <h1 id="title">Have you visited every state?</h1>
     </div>

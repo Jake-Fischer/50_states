@@ -1,3 +1,5 @@
+//Here are our routes, or things out server can do
+
 let express = require('express')
 let States = require('../models').States
 

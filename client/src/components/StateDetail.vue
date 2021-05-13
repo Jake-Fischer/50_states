@@ -1,4 +1,5 @@
 <template>
+<!-- Details about the state, including a map icon and checkbox -->
     <div class="state-info">
         <span class="state-name">{{ state.name }}</span>
 
@@ -30,6 +31,7 @@ export default {
         }
     },
     methods: {
+        //Emit something that will cause update-visited to run, and update the states visited value
         visitedChanged() {
             this.$emit('update-visited', this.state.name, this.visited)
         }
